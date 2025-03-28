@@ -4,8 +4,7 @@ Este projeto converte um site em um aplicativo Android (APK) utilizando **WebVie
 
 ## 📷 Captura de Tela
 
-![Screenshot](caminho/para/imagem.png)  
-> Substitua `caminho/para/imagem.png` pelo caminho real da sua imagem no repositório.
+![Screenshot](https://github.com/EduardaSr19/ApkSite/blob/master/app/src/main/res/drawable/tela-portifolio.png)  
 
 ## 🚀 Funcionalidades
 - Exibe qualquer site dentro do app
