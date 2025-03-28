@@ -15,7 +15,7 @@ Este projeto converte um site em um aplicativo Android (APK) utilizando **WebVie
 ## 📥 Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/EduardaSr19/ApkSite.git
    ```
 2. Abra o projeto no **Android Studio**
 3. Modifique a URL no arquivo `MainActivity.java`:
